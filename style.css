@@ -30,6 +30,7 @@ body{
   border-radius: 20px;
   border: 2px solid rgb(59, 59, 59);
   box-shadow: 0 8px 32px 0 black;
+  text-align: center;
 }
 .btn i{
   line-height: 90px;
