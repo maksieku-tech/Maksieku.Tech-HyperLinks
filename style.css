@@ -1,5 +1,5 @@
 body{
-  background: #def1ff;
+  background-color: #01060c;
 }
 
 body{
@@ -24,12 +24,12 @@ body{
   color: #ffffff;
   overflow: hidden;
   position: relative;
-  background:linear-gradient(rgb(98, 136, 158), rgb(49, 89, 108));
+  background:linear-gradient(rgb(1, 35, 55), rgb(0, 4, 6));
   backdrop-filter: blur(10px);
   -webkit-backdrop-filter: blur(10px);  
   border-radius: 20px;
-  border: 2px solid rgb(59, 59, 59);
-  box-shadow: 0 8px 32px 0 black;
+  border: 2px solid rgb(0, 0, 0);
+  box-shadow: 0 8px 32px 0 rgb(19, 19, 19);
   text-align: center;
 }
 .btn i{
@@ -39,7 +39,7 @@ body{
 }
 .btn:hover i{
   transform: scale(1.3);
-  color: #f1f1f1;
+  color: #ffffff;
 }
 .btn::before{
   content: "";
