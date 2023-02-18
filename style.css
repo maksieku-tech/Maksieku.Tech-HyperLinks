@@ -1,5 +1,5 @@
 body{
-  background-color: #01060c;
+  background-color: #3d0060;
 }
 
 body{
@@ -20,16 +20,16 @@ body{
   background: #5f7595;
   margin: 10px;
   border-radius: 30%;
-  box-shadow: 0 5px 20px -5px #00000070;
-  color: #ffffff;
+  box-shadow: 0 5px 20px -5px #ffffff70;
+  color: #c39cdf;
   overflow: hidden;
   position: relative;
-  background:linear-gradient(rgb(1, 35, 55), rgb(0, 4, 6));
+  background:linear-gradient(rgb(132, 0, 255), rgb(187, 0, 255));
   backdrop-filter: blur(10px);
   -webkit-backdrop-filter: blur(10px);  
   border-radius: 20px;
-  border: 2px solid rgb(0, 0, 0);
-  box-shadow: 0 8px 32px 0 rgb(19, 19, 19);
+  border: 2px solid rgb(70, 0, 68);
+  box-shadow: 0 8px 32px 0 rgb(154, 154, 154);
   text-align: center;
 }
 .btn i{
@@ -77,4 +77,85 @@ body{
   border-radius: 20px;
   border: 1px solid grey;
   box-shadow: 0 8px 32px 0 black;
+}
+
+
+.am6{
+  display: inline-block;
+  width: 90px;
+  height: 90px;
+  background: #5f7595;
+  margin: 10px;
+  border-radius: 30%;
+  box-shadow: 0 5px 20px -5px #00000070;
+  color: #ffffff;
+  overflow: hidden;
+  position: relative;
+  background:linear-gradient(rgb(255, 255, 255), rgb(0, 157, 255));
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);  
+  border-radius: 20px;
+  border: 2px solid rgb(255, 255, 255);
+  box-shadow: 0 8px 32px 0 rgb(19, 19, 19);
+  text-align: center;
+}
+
+.am7{
+  display: inline-block;
+  width: 90px;
+  height: 90px;
+  background: #5f7595;
+  margin: 10px;
+  border-radius: 30%;
+  box-shadow: 0 5px 20px -5px #00000070;
+  color: #ffffff;
+  overflow: hidden;
+  position: relative;
+  background:linear-gradient(rgb(0, 140, 28), rgb(52, 233, 130));
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);  
+  border-radius: 20px;
+  border: 2px solid rgb(26, 163, 16);
+  box-shadow: 0 8px 32px 0 rgb(19, 19, 19);
+  text-align: center;
+}
+
+.am5{
+  display: inline-block;
+  width: 90px;
+  height: 90px;
+  background: #5f7595;
+  margin: 10px;
+  border-radius: 30%;
+  box-shadow: 0 5px 20px -5px #00000070;
+  color: #ffffff;
+  overflow: hidden;
+  position: relative;
+  background:linear-gradient(rgb(0, 191, 255), rgb(52, 233, 130));
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);  
+  border-radius: 20px;
+  border: 2px solid rgb(255, 255, 255);
+  box-shadow: 0 8px 32px 0 rgb(19, 19, 19);
+  text-align: center;
+}
+
+.am69{
+  display: inline-block;
+  width: 90px;
+  height: 90px;
+  background: #085ee1;
+  margin: 10px;
+  border-radius: 30%;
+  box-shadow: 0 5px 20px -5px #00000070;
+  color: #3a004b;
+  overflow: hidden;
+  position: relative;
+  background:linear-gradient(rgb(0, 191, 255), rgb(0, 41, 95));
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);  
+  border-radius: 20px;
+  border: 2px solid rgb(9, 0, 106);
+  box-shadow: 0 8px 32px 0 rgb(19, 19, 19);
+  text-align: center;
 }
