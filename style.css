@@ -1,5 +1,5 @@
 body{
-  background-color: #3d0060;
+  background-color: #a3e2ff;
 }
 
 body{
@@ -21,14 +21,14 @@ body{
   margin: 10px;
   border-radius: 30%;
   box-shadow: 0 5px 20px -5px #ffffff70;
-  color: #c39cdf;
+  color: #ffffff;
   overflow: hidden;
   position: relative;
-  background:linear-gradient(rgb(132, 0, 255), rgb(187, 0, 255));
+  background:linear-gradient(rgb(255, 255, 255), rgb(133, 133, 133));
   backdrop-filter: blur(10px);
   -webkit-backdrop-filter: blur(10px);  
   border-radius: 20px;
-  border: 2px solid rgb(70, 0, 68);
+  border: 2px solid rgb(62, 62, 62);
   box-shadow: 0 8px 32px 0 rgb(154, 154, 154);
   text-align: center;
 }
@@ -158,4 +158,4 @@ body{
   border: 2px solid rgb(9, 0, 106);
   box-shadow: 0 8px 32px 0 rgb(19, 19, 19);
   text-align: center;
-} 
+}
