@@ -1,5 +1,5 @@
 body{
-  background-color: #a3e2ff;
+  background-color: #001017;
 }
 
 body{
@@ -20,16 +20,16 @@ body{
   background: #5f7595;
   margin: 10px;
   border-radius: 30%;
-  box-shadow: 0 5px 20px -5px #ffffff70;
+  box-shadow: 0 5px 20px -5px #00000070;
   color: #ffffff;
   overflow: hidden;
   position: relative;
-  background:linear-gradient(rgb(255, 255, 255), rgb(133, 133, 133));
+  background:linear-gradient(rgb(14, 14, 14), rgb(7, 0, 48));
   backdrop-filter: blur(10px);
   -webkit-backdrop-filter: blur(10px);  
   border-radius: 20px;
-  border: 2px solid rgb(62, 62, 62);
-  box-shadow: 0 8px 32px 0 rgb(154, 154, 154);
+  border: 2px solid rgb(0, 0, 0);
+  box-shadow: 0 8px 32px 0 rgb(0, 0, 0);
   text-align: center;
 }
 .btn i{
@@ -95,7 +95,7 @@ body{
   backdrop-filter: blur(10px);
   -webkit-backdrop-filter: blur(10px);  
   border-radius: 20px;
-  border: 2px solid rgb(255, 255, 255);
+  border: 2px solid rgb(80, 80, 80);
   box-shadow: 0 8px 32px 0 rgb(19, 19, 19);
   text-align: center;
 }
@@ -135,7 +135,7 @@ body{
   backdrop-filter: blur(10px);
   -webkit-backdrop-filter: blur(10px);  
   border-radius: 20px;
-  border: 2px solid rgb(255, 255, 255);
+  border: 2px solid rgb(0, 0, 0);
   box-shadow: 0 8px 32px 0 rgb(19, 19, 19);
   text-align: center;
 }
@@ -158,4 +158,4 @@ body{
   border: 2px solid rgb(9, 0, 106);
   box-shadow: 0 8px 32px 0 rgb(19, 19, 19);
   text-align: center;
-} 
+}
